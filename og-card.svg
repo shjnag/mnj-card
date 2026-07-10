@@ -47,5 +47,5 @@
   <text x="516" y="419" fill="#e1c88c" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="25" font-weight="600" letter-spacing="6">대표 · CEO</text>
 
   <line x1="516" y1="459" x2="1063" y2="459" stroke="#cba85e" stroke-opacity=".2" />
-  <text x="516" y="506" fill="#93a19b" font-family="Arial, sans-serif" font-size="19" letter-spacing="5">SAP · ENTERPRISE CONSULTING</text>
+  <text x="516" y="506" fill="#93a19b" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="2">SAP 기술설계 · ABAP 구현 · 테스트 산출물</text>
 </svg>
